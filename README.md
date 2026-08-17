@@ -1,7 +1,7 @@
 # snRNA-seq Analysis of Hypothalamic and Hippocampal Transcriptomes
 
 This repository contains the source code for the single-nucleus RNA-sequencing (snRNA-seq) analysis presented in the manuscript:  
-**"Rest-phase light disrupts hippocampal clock function and impairs object recognition memory"** (Zhang et al., 2026).
+**"Light during the rest phase disrupts hippocampal clock function and impairs object recognition memory"** (Zhang et al., 2026).
 
 ---
 
